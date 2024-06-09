@@ -1,11 +1,9 @@
 <script>
-
+    
 </script>
-
 <template>
-    <h1> La mia prima app con Vite!</h1>
+        <img src="../../img/img1.jpg">
 </template>
-
 <style>
 
 </style>
